@@ -42,9 +42,7 @@ public static void main(String[] args) throws IOException {
 		}
 		String username=arr[i][0];
 		String password=arr[i][1];
-			
-	
-	
+		
 		WebDriver driver=null;
 		switch(PropertiesUtility.getDataFromProperty("browser"))
 		{

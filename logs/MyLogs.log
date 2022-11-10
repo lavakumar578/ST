@@ -11,3 +11,21 @@
 [INFO ] 2022-09-10 19:03:28.918 [main] BaseClass - signed out 
 [INFO ] 2022-09-10 19:03:29.334 [main] BaseClass - browser closed
 [INFO ] 2022-09-10 19:03:29.747 [main] BaseClass -  Excel File is Closed
+[INFO ] 2022-10-03 14:35:05.259 [main] BaseClass -  Excel File is Opened
+[INFO ] 2022-10-03 14:35:10.770 [main] BaseClass - browser launched
+[INFO ] 2022-10-03 14:35:25.445 [main] BaseClass - admin,root login succesfully done
+[INFO ] 2022-10-03 14:35:58.803 [main] BaseClass - signed out 
+[INFO ] 2022-10-03 14:35:59.257 [main] BaseClass - browser closed
+[INFO ] 2022-10-03 14:35:59.686 [main] BaseClass -  Excel File is Closed
+[INFO ] 2022-11-09 21:39:53.948 [main] BaseClass -  Excel File is Opened
+[INFO ] 2022-11-09 21:40:00.056 [main] BaseClass - browser launched
+[INFO ] 2022-11-09 21:40:07.159 [main] BaseClass - admin,root login succesfully done
+[INFO ] 2022-11-09 21:40:24.992 [main] BaseClass - signed out 
+[INFO ] 2022-11-09 21:40:25.390 [main] BaseClass - browser closed
+[INFO ] 2022-11-09 21:40:26.467 [main] BaseClass -  Excel File is Closed
+[INFO ] 2022-11-09 21:44:15.634 [main] BaseClass -  Excel File is Opened
+[INFO ] 2022-11-09 21:44:18.554 [main] BaseClass - browser launched
+[INFO ] 2022-11-09 21:44:23.734 [main] BaseClass - admin,root login succesfully done
+[INFO ] 2022-11-09 21:44:40.750 [main] BaseClass - signed out 
+[INFO ] 2022-11-09 21:44:41.087 [main] BaseClass - browser closed
+[INFO ] 2022-11-09 21:44:41.909 [main] BaseClass -  Excel File is Closed
